@@ -1,9 +1,3 @@
----
-layout: post
-title: "My Secound Blog Post"
-author: "Jaden Griffith"
----
-
 
 **Debugging is a process of identifying errors in your code called “bugs”.** The way I go at debugging is starting to look for bugs in my code and changing one thing at a time, this allows me to experiment and pinpoint my assumptions on what I have done wrong.
 
