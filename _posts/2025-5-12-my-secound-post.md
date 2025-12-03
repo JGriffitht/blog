@@ -1,3 +1,8 @@
+---
+layout: post
+title: "My 2nd Post"
+---
+
 <style>
     .twenty {
         color: red;
